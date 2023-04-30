@@ -166,4 +166,4 @@ while check:
             elif event.key == pygame.K_RIGHT:
                 direction = 'RIGHT'
 
-                #к сожалению не успел зделать до конца, делал игру сам но смотря на туториалы надеюсь пройду ))
+            
